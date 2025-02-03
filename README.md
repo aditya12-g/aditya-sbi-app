@@ -1,4 +1,4 @@
 # aditya-sbi-app
-this is my first gi repository 
+this is my first git repository 
 author- aditya gangthade
 
